@@ -1,0 +1,7 @@
+total 9
+drwxr-xr-x 1 Luke Demi 197121    0 Aug 28 12:36 ./
+drwxr-xr-x 1 Luke Demi 197121    0 Aug 28 12:15 ../
+drwxr-xr-x 1 Luke Demi 197121    0 Aug 28 12:35 .git/
+-rw-r--r-- 1 Luke Demi 197121 1292 Aug 28 12:17 README.md
+-rw-r--r-- 1 Luke Demi 197121    0 Aug 28 12:36 ls.txt
+-rw-r--r-- 1 Luke Demi 197121  238 Aug 28 12:34 status.txt
